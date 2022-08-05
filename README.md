@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Front-End, Bootstrap, and React.**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
