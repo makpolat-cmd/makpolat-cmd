@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Front-End, Bootstrap, and React.**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/makpolat-cmd)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
