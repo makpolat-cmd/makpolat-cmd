@@ -1,10 +1,14 @@
 # About-Me
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
-<h3 align="center">Someone who trying to be an engineer from Turkey.</h3>
+<img align="right" alt="Coding" width="50%" height="455" src="https://i.pinimg.com/originals/0c/a0/dd/0ca0ddd9bf8dfee8a2c26227bf21f6b8.gif">
+
+<h3 align="rigt">Someone who trying to be an engineer from Turkey.</h3>
 
 - 🌱 I’m currently learning **Front-End, Bootstrap, and React.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/makpolat-cmd)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makpolat-cmd&show_icons=true&theme=radical) 
+
 
 
 <h3 align="left">Connect with me:</h3>
