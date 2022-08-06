@@ -1,6 +1,6 @@
 # About-Me
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
-<img align="right" alt="Coding" width="50%" height="455" src="https://i.pinimg.com/originals/0c/a0/dd/0ca0ddd9bf8dfee8a2c26227bf21f6b8.gif">
+<img align="right" alt="Coding" width="40%" height="455" src="https://i.pinimg.com/originals/0c/a0/dd/0ca0ddd9bf8dfee8a2c26227bf21f6b8.gif">
 
 <h3 align="rigt">Someone who trying to be an engineer from Turkey.</h3>
 
