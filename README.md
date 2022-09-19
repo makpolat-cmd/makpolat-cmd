@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Front-End, Bootstrap, and React.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/makpolat-cmd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makpolat-cmd&layout=compact)](https://github.com/makpolat-cmd)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makpolat-cmd&show_icons=true&theme=radical) 
 
 
