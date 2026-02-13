@@ -4,13 +4,6 @@
 
 <h3 align="rigt">Someone who trying to be an engineer from Turkey.</h3>
 
-- 🌱 I’m currently working on AVR and RISC programming.**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makpolat-cmd&layout=compact)](https://github.com/makpolat-cmd)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makpolat-cmd&show_icons=true&theme=radical) 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
